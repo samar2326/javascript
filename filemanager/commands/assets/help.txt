@@ -1,0 +1,10 @@
+
+
+List Of All The Commands.
+
+1.  fileManager organise - >  To organise the files and folders.
+
+2.  fileManager tree ->       To print the Tree format of the folders and files.
+
+3.  fileManager help ->       To see all the commands
+
